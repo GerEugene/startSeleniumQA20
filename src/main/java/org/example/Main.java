@@ -13,6 +13,8 @@ public class Main {
 
         System.out.println("main changes");
 
+        System.out.println("String HW2");
+
         System.out.println("NEW STRING IN MAIN!!!");
 
         for (int i = 1; i <= 5; i++) {
